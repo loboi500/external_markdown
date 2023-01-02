@@ -1,6 +1,3 @@
-recursive-include bin *
-recursive-include markdown *.py
-recursive-include docs *
-prune markdown/extensions/legacy.py
-include setup.py
-include MANIFEST
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fa492a118af8f6a25a883e39d1f7c6a953f8ac3eb5ee70a734477363ba797a3
+size 151

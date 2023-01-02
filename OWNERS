@@ -1,5 +1,3 @@
-# Default owners are top 3 active developers of the past 1 or 2 years
-# or people with more than 10 commits last year.
-# Please update this list if you find better owner candidates.
-djm@google.com
-chh@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:8543d17473131d9a854c4b929447b43279b3deed9c5dbad0b65e1104ff324ebe
+size 212
